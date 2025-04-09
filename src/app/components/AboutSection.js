@@ -81,7 +81,7 @@ export default function AboutSection() {
               <h3 className="text-3xl font-bold mb-8 text-white pl-4">Profile</h3>
               <div className="space-y-6 relative pl-4">
                 <p className="text-gray-300">
-                  I'm a developer focused on creating immersive digital experiences that blend form and function.
+                I&apos; a developer focused on creating immersive digital experiences that blend form and function.
                   With a background in both design and development, I bring a unique perspective to every project.
                 </p>
                 <p className="text-gray-300">

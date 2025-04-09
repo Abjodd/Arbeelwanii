@@ -88,7 +88,7 @@ export default function ContactSection() {
                 </div>
                 
                 <p className="text-gray-300 mb-8">
-                  Have a project in mind or just want to chat? Feel free to reach out! I'm always open to
+                  Have a project in mind or just want to chat? Feel free to reach out! I&apos;m always open to
                   new opportunities and collaborations.
                 </p>
                 
