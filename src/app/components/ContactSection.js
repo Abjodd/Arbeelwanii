@@ -63,7 +63,7 @@ export default function ContactSection() {
         >
           <div className="inline-block px-3 py-1 bg-blue-900/30 backdrop-blur-sm rounded-full border border-blue-500/20 text-blue-300 text-sm mb-4">
             <span className="inline-block w-2 h-2 rounded-full bg-blue-400 animate-pulse mr-2"></span>
-            Let's Connect
+            Lets Connect
           </div>
           <h2 className="text-4xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-cyan-300">
             CONTACT_ME
