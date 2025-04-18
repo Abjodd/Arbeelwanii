@@ -26,7 +26,7 @@ export default function Navbar() {
     { name: 'Home', href: '#Hero' },
     { name: 'Projects', href: '#projects' },
     { name: 'About', href: '#about' },
-    
+   
     { name: 'Contact', href: '#contact' },
   ];
   
@@ -73,6 +73,7 @@ export default function Navbar() {
             >
               Resume
             </Link>
+         
           </nav>
           
           {/* Mobile Menu Button */}
@@ -140,6 +141,7 @@ export default function Navbar() {
               >
                 Resume
               </Link>
+              
             </nav>
           </motion.div>
         )}

@@ -1,5 +1,5 @@
 // src/app/api/contact/route.js
-import clientPromise from '../../lib/mongodb'; // Adjust the path as necessary
+import clientPromise from '../../lib/mongodb'; 
 
 export async function POST(request) {
   try {
@@ -11,7 +11,7 @@ export async function POST(request) {
     }
 
     const client = await clientPromise;
-    const db = client.db('portfolio'); // Replace with your actual DB name
+    const db = client.db('portfolio'); 
 
     const result = await db.collection('messages').insertOne({
       name,
