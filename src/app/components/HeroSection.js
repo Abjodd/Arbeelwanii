@@ -245,7 +245,7 @@ export default function HeroSection() {
             
             {/* Instagram link - replaced Twitter */}
             <a 
-              href="https://www.instagram.com/10_12_2003__/"
+              href="https://www.instagram.com/arbeel_wanii/"
                 target="_blank"
                 rel="noopener noreferrer"
               className="flex items-center justify-center w-10 h-10 rounded-full bg-gray-800/50 backdrop-blur-sm border border-gray-700 text-gray-300 hover:text-blue-400 hover:border-blue-400 transition-all duration-300 hover:-translate-y-1"
