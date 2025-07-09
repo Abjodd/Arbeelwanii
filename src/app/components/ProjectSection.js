@@ -29,7 +29,7 @@ const projects = [
     description:
       "The Gym Management System is a software designed to store data about members, employees, products, payroll, receipts of members etc & all transactions that occur in Gym and lock-up with graphical user interface (GUI).",
     tags: ["Vite + React", "firebase", "Node.js", "express", "API"],
-    link: "https://github.com/Abjodd/blackfitness",
+    link: "https://blackfitness-ashy.vercel.app/",
     github: "https://github.com/Abjodd",
     image: "/project7.png",
   },
