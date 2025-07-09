@@ -66,7 +66,7 @@ export default function Navbar() {
             ))}
             
             <Link 
-              href="/arbeel_resume.pdf" 
+              href="/ARBEELWANI_RESUME.pdf" 
               target="_blank" 
               rel="noopener noreferrer"
               className="px-4 py-2 bg-blue-500 hover:bg-blue-600 text-white rounded-lg text-sm uppercase tracking-wider font-medium transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/30"
@@ -133,7 +133,7 @@ export default function Navbar() {
               ))}
               
               <Link
-                href="/arbeel_resume.pdf"
+                href="/ARBEELWANI_RESUME.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => setIsMobileMenuOpen(false)}
